@@ -15,7 +15,9 @@ Provides a high-level sales overview per store.
 Metrics Included:
 
 Total Revenue
+
 Number of Orders
+
 Average Order Value (AOV)
 Business Use Case:
 Helps management compare store performance and identify high- and low-performing locations.
