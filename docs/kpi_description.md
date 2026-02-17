@@ -6,7 +6,7 @@ This document describes the key performance indicators (KPIs) implemented in thi
 
 ## Store-Level KPIs
 
-##vw_StoreSalesSummary
+## vw_StoreSalesSummary
 
 Purpose:
 
