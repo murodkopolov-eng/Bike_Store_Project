@@ -76,10 +76,7 @@ These procedures are designed to support dashboards, reporting tools, and automa
 - Normalized relational schema
 - BULK INSERT for CSV data ingestion
 - Extensive use of:
- - JOINs
- - CTEs
- - Window functions
- - Aggregations
+JOINs, CTEs, Window functions and Aggregations
 - Business-oriented KPI design
 - Reusable and parameterized stored procedures
 
