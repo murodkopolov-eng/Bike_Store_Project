@@ -35,7 +35,7 @@ The dataset included in this repository is a sample dataset used to demonstrate 
 
 # KPIs & Analytical Views
 
-## Store Performance
+# Store Performance
 
 - vw_StoreSalesSummary
 Revenue, number of orders, and Average Order Value (AOV) per store
