@@ -31,81 +31,93 @@ Ranks products based on total sales revenue.
 **Business Use Case:**
 Supports product assortment decisions and promotional strategies.
 
-vw_InventoryStatus
-Purpose:
+## vw_InventoryStatus
+**Purpose:**
+
 Identifies products with low stock levels.
 
-Metrics Included:
+**Metrics Included:**
 
-Current Stock Quantity
-Low-stock Indicator
-Business Use Case:
+- Current Stock Quantity
+- Low-stock Indicator
+  
+**Business Use Case:**
 Prevents stock-outs and supports timely replenishment planning.
 
-Staff Performance KPIs
-vw_StaffPerformance
-Purpose:
+# Staff Performance KPIs
+## vw_StaffPerformance
+**Purpose:**
+
 Measures individual staff contribution to sales.
 
-Metrics Included:
+**Metrics Included:**
 
-Total Orders Handled
-Total Revenue Generated
-Business Use Case:
+- Total Orders Handled
+- Total Revenue Generated
+  
+**Business Use Case:**
 Used for performance evaluation, incentives, and staffing optimization.
 
-Regional & Category KPIs
-vw_RegionalTrends
-Purpose:
+# Regional & Category KPIs
+## vw_RegionalTrends
+**Purpose:**
+
 Analyzes revenue trends by city or region.
 
-Metrics Included:
+**Metrics Included:**
 
-Total Revenue by Region
-Order Volume
-Business Use Case:
+- Total Revenue by Region
+- Order Volume
+  
+**Business Use Case:**
 Supports regional expansion and marketing strategy decisions.
 
-vw_SalesByCategory
-Purpose:
+## vw_SalesByCategory
+**Purpose:**
+
 Evaluates sales performance by product category.
 
-Metrics Included:
+**Metrics Included:**
 
-Sales Volume
-Revenue
-Margin
-Business Use Case:
+- Sales Volume
+- Revenue
+- Margin
+  
+**Business Use Case:**
 Helps identify high-margin categories and optimize pricing strategy.
 
-Stored Procedures
-sp_CalculateStoreKPI
-Description:
+# Stored Procedures
+## sp_CalculateStoreKPI
+**Description:**
+
 Returns a complete KPI breakdown for a given store ID.
 
-Use Case:
+**Use Case:**
 Used in dashboards or reporting tools for store-level performance analysis.
 
-sp_GenerateRestockList
-Description:
+## sp_GenerateRestockList
+**Description:**
+
 Generates a list of low-stock items per store.
 
-Use Case:
+**Use Case:**
 Supports inventory replenishment and supply chain planning.
 
-sp_CompareSalesYearOverYear
-Description:
+## sp_CompareSalesYearOverYear
+**Description:**
+
 Compares sales performance between two selected years.
 
-Use Case:
+**Use Case:**
 Used to analyze growth trends and seasonality.
 
-sp_GetCustomerProfile
-Description:
+## sp_GetCustomerProfile
+**Description:**
+
 Returns customer-level metrics including total spend, order count, and most frequently purchased products.
 
-Use Case:
+**Use Case:**
 Supports customer segmentation and loyalty analysis.
 
-How These KPIs Support Business Decisions
+# How These KPIs Support Business Decisions
 Together, these KPIs provide a comprehensive view of sales performance, operational efficiency, and customer behavior, enabling management to make informed strategic and tactical decisions.
