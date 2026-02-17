@@ -6,14 +6,15 @@ This document describes the key performance indicators (KPIs) implemented in thi
 ## Store-Level KPIs
 ## vw_StoreSalesSummary
 **Purpose:**
+
 Provides a high-level sales overview per store.
 
-Metrics Included:
-
-Total Revenue
-Number of Orders
-Average Order Value (AOV)
-Business Use Case:
+**Metrics Included:**
+- Total Revenue
+- Number of Orders
+- Average Order Value (AOV)
+  
+**Business Use Case:**
 Helps management compare store performance and identify high- and low-performing locations.
 
 Product & Inventory KPIs
