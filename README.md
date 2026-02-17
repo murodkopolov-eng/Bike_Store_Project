@@ -35,10 +35,65 @@ The dataset included in this repository is a sample dataset used to demonstrate 
 
 # KPIs & Analytical Views
 
-# Store Performance
+## Store Performance
 
 - vw_StoreSalesSummary
 Revenue, number of orders, and Average Order Value (AOV) per store
+
+##Product Performance
+
+- vw_TopSellingProducts
+Products ranked by total sales revenue
+- vw_SalesByCategory
+Sales volume and margin by product category
+
+## Inventory Monitoring
+- vw_InventoryStatus
+Identification of items running low on stock
+
+## Staff Performance
+- vw_StaffPerformance
+Orders handled and revenue generated per staff member
+
+## Regional Analysis
+- vw_RegionalTrends
+Revenue trends by city or region
+
+# Stored Procedures
+- sp_CalculateStoreKPI
+Returns a complete KPI breakdown for a given store ID
+- sp_GenerateRestockList
+Generates a restocking list of low-stock items per store
+- sp_CompareSalesYearOverYear
+Compares sales performance between two selected years
+- sp_GetCustomerProfile
+Returns customer-level metrics including total spend, order count, and most purchased products
+These procedures are designed to support dashboards, reporting tools, and automation workflows.
+
+# Technical Highlights
+
+- SQL Server–based implementation
+- Normalized relational schema
+- BULK INSERT for CSV data ingestion
+- Extensive use of:
+-- JOINs
+-- CTEs
+-- Window functions
+-- Aggregations
+- Business-oriented KPI design
+- Reusable and parameterized stored procedures
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
