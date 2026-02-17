@@ -77,9 +77,9 @@ These procedures are designed to support dashboards, reporting tools, and automa
 - BULK INSERT for CSV data ingestion
 - Extensive use of:
  - JOINs
--- CTEs
--- Window functions
--- Aggregations
+ - CTEs
+ - Window functions
+ - Aggregations
 - Business-oriented KPI design
 - Reusable and parameterized stored procedures
 
