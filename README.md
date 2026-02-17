@@ -76,7 +76,7 @@ These procedures are designed to support dashboards, reporting tools, and automa
 - Normalized relational schema
 - BULK INSERT for CSV data ingestion
 - Extensive use of:
--- JOINs
+ - JOINs
 -- CTEs
 -- Window functions
 -- Aggregations
