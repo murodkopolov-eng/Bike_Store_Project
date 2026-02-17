@@ -19,14 +19,16 @@ Helps management compare store performance and identify high- and low-performing
 
 # Product & Inventory KPIs
 ## vw_TopSellingProducts
-Purpose:
+**Purpose:**
+
 Ranks products based on total sales revenue.
 
-Metrics Included:
+**Metrics Included:**
 
-Total Revenue per Product
-Sales Rank
-Business Use Case:
+- Total Revenue per Product
+- Sales Rank
+  
+**Business Use Case:**
 Supports product assortment decisions and promotional strategies.
 
 vw_InventoryStatus
