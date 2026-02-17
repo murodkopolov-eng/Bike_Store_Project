@@ -17,3 +17,17 @@ The schema is designed to support transactional sales analysis, inventory tracki
 - Design KPI-driven SQL views for reporting and analytics
 - Implement stored procedures to support reusable and automated analysis
 - Enable management-level insights for sales, inventory, staff, and regional performance
+
+## Dataset
+The dataset represents a bike retail chain and includes the following entities:
+
+Sales and Orders
+Order Items
+Customers
+Products
+Stores
+Inventory (Stocks)
+Staff
+Brands and Categories
+Note:
+The dataset included in this repository is a sample dataset used to demonstrate the data model and SQL logic. Full production data is excluded for confidentiality reasons.
