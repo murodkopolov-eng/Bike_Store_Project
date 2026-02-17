@@ -17,7 +17,7 @@ Provides a high-level sales overview per store.
 **Business Use Case:**
 Helps management compare store performance and identify high- and low-performing locations.
 
-## Product & Inventory KPIs
+# Product & Inventory KPIs
 ## vw_TopSellingProducts
 Purpose:
 Ranks products based on total sales revenue.
