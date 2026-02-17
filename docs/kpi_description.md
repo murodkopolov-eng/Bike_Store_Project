@@ -1,6 +1,6 @@
-## KPI & Business Metrics Documentation
+# KPI & Business Metrics Documentation
 
-# Overview
+## Overview
 
 This document describes the key performance indicators (KPIs) implemented in this project. All KPIs are designed to support data-driven decision-making for sales performance, inventory management, and operational efficiency.
 
