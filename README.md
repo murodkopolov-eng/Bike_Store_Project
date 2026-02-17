@@ -4,4 +4,4 @@ This project implements a Business Intelligence (BI) solution using SQL Server f
 
 The project simulates a real-world analytics workflow, starting from schema design and data ingestion to performance reporting and decision support.
 
-! [Dashboard Preview](diagram/image_diagram.png)
+! [Dashboard Preview](diagram/image_diagram)
