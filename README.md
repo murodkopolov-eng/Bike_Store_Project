@@ -7,6 +7,13 @@ The project simulates a real-world analytics workflow, starting from schema desi
 ![Dashboard Preview](diagram/image_diagram.png)
 
 **Description:**
+
 This ER diagram represents the normalized relational database schema for the Bike Store sales system.
 The schema is designed to support transactional sales analysis, inventory tracking, and staff performance reporting.
 
+## Project Objectives
+- Build a normalized relational database for retail sales data
+- Load and transform CSV-based data using bulk insert techniques
+- Design KPI-driven SQL views for reporting and analytics
+- Implement stored procedures to support reusable and automated analysis
+- Enable management-level insights for sales, inventory, staff, and regional performance
