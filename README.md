@@ -21,13 +21,39 @@ The schema is designed to support transactional sales analysis, inventory tracki
 ## Dataset
 The dataset represents a bike retail chain and includes the following entities:
 
-Sales and Orders
-Order Items
-Customers
-Products
-Stores
-Inventory (Stocks)
-Staff
-Brands and Categories
-Note:
+- Sales and Orders
+- Order Items
+- Customers
+- Products
+- Stores
+- Inventory (Stocks)
+- Staff
+- Brands and Categories
+  
+**Note:**
 The dataset included in this repository is a sample dataset used to demonstrate the data model and SQL logic. Full production data is excluded for confidentiality reasons.
+
+# KPIs & Analytical Views
+
+## Store Performance
+
+- vw_StoreSalesSummary
+Revenue, number of orders, and Average Order Value (AOV) per store
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
