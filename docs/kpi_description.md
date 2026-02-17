@@ -4,9 +4,12 @@
 
 This document describes the key performance indicators (KPIs) implemented in this project. All KPIs are designed to support data-driven decision-making for sales performance, inventory management, and operational efficiency.
 
-Store-Level KPIs
-vw_StoreSalesSummary
+## Store-Level KPIs
+
+##vw_StoreSalesSummary
+
 Purpose:
+
 Provides a high-level sales overview per store.
 
 Metrics Included:
